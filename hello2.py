@@ -9,7 +9,7 @@ import sys
 
 def main():
     """Run the main program."""
-    print "Hello there", sys.argv[1]
+    print("Hello there", sys.argv[1])
     # Command line arguments are sys.argv[1], sys.argv[2]
     # sys.argv[0] is the command itself and can be ignored
 
